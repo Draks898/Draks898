@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Draks</h1>
 <h3 align="center">A developer from OPT</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=test" alt="test" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Draks898" alt="test" /></a> </p>
 
 ###
 <h2 align="left"> About me</h2>
