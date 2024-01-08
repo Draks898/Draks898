@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left"> My Skill</h2>
+<h2 align="left"> My Skills</h2>
 
 ###
 
